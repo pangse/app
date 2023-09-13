@@ -61,7 +61,7 @@ modules:
 
 
   # ------------------ APP ROUTER MODULE -----------------------
-  - name: app-app
+  - name: app
   # ------------------------------------------------------------
     type: approuter.nodejs
     path: app
