@@ -1,6 +1,6 @@
 _schema-version: '3.2'
 ID: app
-version: 0.0.4
+version: 0.0.6
 
 parameters:
   enable-parallel-deployments: true
@@ -113,7 +113,7 @@ resources:
                 Type: HTTP
                 ProxyType: Internet
                 Authentication: NoAuthentication
-                URL.queries.api_key: <SetValueInCockpit>
+                URL.queries.api_key: JjQWdzpIW2Bu42lnydZg8rBnEK1NDo2owrijmGqE
                 HTML5.DynamicDestination: true
 
 
