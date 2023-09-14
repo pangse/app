@@ -14,11 +14,14 @@ ci/cd test modify Readme.md
 > version : 0.0.5
 NASA-api key 등록
 
-> version : 0.0.7
+> version : 0.0.7 Commit ce25b9a
 transport management 설정
 .pipeline/config.xml > tmsUpload: true 
 
-> version: 0.0.8
+> version: 0.0.8 Commit 47b110d
 mta.yaml 소스 추가. 
 - npx rimraf gen/db/src/gen/data
 - npx rimraf gen/db/src/gen/csv
+
+> version: 0.0.9 
+slack alert설정이후 확인 버젼
