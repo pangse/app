@@ -17,3 +17,8 @@ NASA-api key 등록
 > version : 0.0.7
 transport management 설정
 .pipeline/config.xml > tmsUpload: true 
+
+> version: 0.0.8
+mta.yaml 소스 추가. 
+- npx rimraf gen/db/src/gen/data
+- npx rimraf gen/db/src/gen/csv
