@@ -13,3 +13,7 @@ ci/cd test modify Readme.md
 
 > version : 0.0.5
 NASA-api key 등록
+
+> version : 0.0.7
+transport management 설정
+.pipeline/config.xml > tmsUpload: true 
