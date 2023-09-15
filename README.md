@@ -25,3 +25,6 @@ mta.yaml 소스 추가.
 
 > version: 0.0.9 
 slack alert설정이후 확인 버젼
+
+> version: 0.0.10
+test 
